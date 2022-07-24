@@ -2,6 +2,7 @@
 NFL Win Projection
 
 Introduction 
+
 The NFL is a multi-billion-dollar league with a great appreciation for statistics and their ability to shape rosters, drafts, and other 
 decisions. In addition, the market for NFL gambling is one of the largest in the industry. Prediction of NFL game outcomes has made Vegas and their  
 respective sportsbooks millions.  If a user-generated win projection model performed better than an oddsmakers win projection model, they would expect to 
@@ -79,15 +80,13 @@ opposing defenses, teams who face weak opponents are rewarded. The inclusion of 
 misclassification rate. 
 
 Statistical Method
-Training Error 
-Test Error 
+
+Training Error Test Error 
+
 Logistic Regression 
-17.6%
-21.5%
+17.6%  21.5%
 LDA
-15.6%
-23.5%
+15.6%  23.5%
 QDA
-13.7%
-19.6%
+13.7%  19.6%
 
